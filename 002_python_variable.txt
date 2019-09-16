@@ -1,0 +1,4 @@
+#002_Python_variables
+@pourya_mansouri1
+
+مفهوم متغیر و نحوه مقدار دهی به آن
