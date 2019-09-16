@@ -1,4 +1,4 @@
-#006_python_del_variables
+#007_python_del_variables
 instagram: @pourya_mansouri1
 
 انواع متغیرها در پایتون
